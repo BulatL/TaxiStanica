@@ -1,0 +1,6 @@
+Audi|a6|2015|231134|41|PutnickiAautomobil
+Audi|a4|2014|211134|42|PutnickiAautomobil
+Audi|a5|2013|231532|43|PutnickiAautomobil
+Nissan|QASHQAI|2006|1474|45|PutnickiAautomobil
+Mercedes Benz|316 CDI|2013|159784|44|Kombi
+Ford|Mondeo|2011|145575|46|PutnickiAautomobil

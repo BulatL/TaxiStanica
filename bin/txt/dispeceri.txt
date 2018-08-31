@@ -1,0 +1,4 @@
+D1|Jovan|Jovanovic|19875823|Beograd|MUSKI|649781432|25000.0|Prijem|JovanJ|jovan
+D2|Milica|Simic|14123823|Nis|ZENSKI|619723412|25000.0|Reklamacija|MilicaS|milica
+D3|Igor|Jovanovic|312375823|Novi Sad|MUSKI|632131432|25000.0|Prijem|IgorJ|igor
+D4|Jelisaveta|Simic|121333823|Nis|ZENSKI|61312133|25000.0|Reklamacija|JelisavetaS|jelisaveta

@@ -1,0 +1,4 @@
+M1|Marko|Nikolic|78978146|Novi Sad|MUSKI|64214879|MarkoN|sifra|true
+M2|Nikola|Jovic|4751877987|Beograd|MUSKI|61579731|Nikolica|sifra|true
+M4|Milica|Ivanovic|7525443|Indjija|MUSKI|6311432|MilicaI|sifra|true
+M5|Ivan|Peric|478214|Novi Sad|MUSKI|6477524|IvanP|sifra|false

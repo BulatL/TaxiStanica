@@ -1,0 +1,6 @@
+V1|Milos|Milosevic|14749729|Novi Sad|MUSKI|64724719|35000.0|11|MilosM|sifra|44
+V2|Marko|Markovic|13123261|Novi Sad|MUSKI|6312349|35000.0|12|MarkoM|sifra|43
+V3|Ivan|Jovanovic|2436213|Novi Sad|MUSKI|613215|35000.0|13|IvanJ|sifra|42
+V4|Ivana|Nikolic|2216413|Novi Sad|ZENSKI|6312451|35000.0|14|IvanaN|sifra|41
+V5|Milica|Jaksic|74897514|Smederevo|ZENSKI|6487123|25000.0|15|MilicaJ|sifra|45
+V6|Igor|Simic|45645|Beograd|MUSKI|645752|25000.0|16|IgorS|sifra|46

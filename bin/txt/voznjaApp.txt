@@ -1,0 +1,8 @@
+09.11.2017 07:12:24|Bulevar Oslobodjenja 41|M2|V3|pozuri|132,521
+15.06.2017 02:26:08|Kralja Petra I 18A|M2|V4|daaa|312,123
+15.06.2017 04:08:53|Trg Slobode 4|M1|V1|juri|321,421
+15.06.2017 17:04:41|Cara Dusana 4|M4|V2|hajde nocas mi dodji|312,4213
+15.06.2017 17:10:57|Zmaj Jovina 14|M4|null|daaadsa|312,132
+15.06.2017 22:26:26|Kralja Petra I 32|M1|null|da|809,947
+15.06.2017 22:15:00|Trg Republike 14|M1|V1|ajde|321,412
+15.06.2017 22:15:00|Trg Republike 14|M1|V1|ajde|321,412
